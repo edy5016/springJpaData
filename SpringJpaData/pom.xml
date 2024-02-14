@@ -41,6 +41,17 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.study.querydsl</groupId>
+			<artifactId>querydsl</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+				<!-- https://mvnrepository.com/artifact/com.github.gavlyukovskiy/p6spy-spring-boot-starter -->
+		<dependency>
+		    <groupId>com.github.gavlyukovskiy</groupId>
+		    <artifactId>p6spy-spring-boot-starter</artifactId>
+		    <version>1.9.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
